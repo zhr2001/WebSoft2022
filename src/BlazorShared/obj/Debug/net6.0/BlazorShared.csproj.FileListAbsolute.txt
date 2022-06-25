@@ -1,0 +1,12 @@
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\bin\Debug\net6.0\BlazorShared.deps.json
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\bin\Debug\net6.0\BlazorShared.dll
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\bin\Debug\net6.0\ref\BlazorShared.dll
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\bin\Debug\net6.0\BlazorShared.pdb
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.csproj.AssemblyReference.cache
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.AssemblyInfoInputs.cache
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.AssemblyInfo.cs
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.csproj.CoreCompileInputs.cache
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.dll
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\ref\BlazorShared.dll
+C:\CPP-Project\C#\eShopOnWeb\src\BlazorShared\obj\Debug\net6.0\BlazorShared.pdb
